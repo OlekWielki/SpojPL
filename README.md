@@ -1,2 +1,3 @@
 # SpojPL
-Zadania z polskiego spoja
+My solutions for polish spoj
+pl.spoj.com
